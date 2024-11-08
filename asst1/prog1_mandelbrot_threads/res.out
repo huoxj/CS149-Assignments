@@ -1,0 +1,5 @@
+Usage: ./mandelbrot [options]
+Program Options:
+  -t  --threads <N>  Use N threads
+  -v  --view <INT>   Use specified view settings
+  -?  --help         This message

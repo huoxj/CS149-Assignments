@@ -1,0 +1,25 @@
+[mandelbrot serial]:		[1222.848] ms
+Wrote image file mandelbrot-serial.ppm
+-- Test round 0
+Thread 0 total time: 244.17ms
+Thread 2 total time: 248.01ms
+Thread 1 total time: 745.30ms
+-- Test round 1
+Thread 2 total time: 265.83ms
+Thread 0 total time: 271.71ms
+Thread 1 total time: 774.75ms
+-- Test round 2
+Thread 0 total time: 244.66ms
+Thread 2 total time: 247.11ms
+Thread 1 total time: 749.07ms
+-- Test round 3
+Thread 0 total time: 244.55ms
+Thread 2 total time: 245.90ms
+Thread 1 total time: 742.22ms
+-- Test round 4
+Thread 0 total time: 247.86ms
+Thread 2 total time: 249.37ms
+Thread 1 total time: 747.35ms
+[mandelbrot thread]:		[743.072] ms
+Wrote image file mandelbrot-thread.ppm
+				(1.65x speedup from 3 threads)

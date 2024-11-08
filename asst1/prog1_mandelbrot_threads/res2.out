@@ -1,0 +1,20 @@
+[mandelbrot serial]:		[1222.359] ms
+Wrote image file mandelbrot-serial.ppm
+-- Test round 0
+Thread 0 total time: 610.92ms
+Thread 1 total time: 622.10ms
+-- Test round 1
+Thread 0 total time: 609.37ms
+Thread 1 total time: 613.82ms
+-- Test round 2
+Thread 0 total time: 610.62ms
+Thread 1 total time: 620.73ms
+-- Test round 3
+Thread 0 total time: 611.07ms
+Thread 1 total time: 613.71ms
+-- Test round 4
+Thread 0 total time: 609.81ms
+Thread 1 total time: 613.81ms
+[mandelbrot thread]:		[614.341] ms
+Wrote image file mandelbrot-thread.ppm
+				(1.99x speedup from 2 threads)
